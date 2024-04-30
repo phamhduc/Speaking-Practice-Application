@@ -3,7 +3,7 @@
 
 ## Application Set up
 
-You can use directly by EXE file in dist folder, Remember to put EXE file and DataPack file in the samefolder.
+You can use directly  EXE file in dist folder, Remember to put EXE file and DataPack file in the samefolder.
 
 You can set up to run and edit as a python file.
 Remember to install PyQt5 by 
