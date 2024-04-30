@@ -4,7 +4,6 @@
 
 ## --TAB Input Quesion---
 
-![image](https://github.com/phamhduc/Ielts_Speaking_App/assets/101264143/c98ed00c-9eae-465a-9f50-9b4d782d96c8)
 
 "Add Topic" to add new topic for ielts speaking test.
 
@@ -22,7 +21,6 @@ You can change "Number of question" to choose another one.
 
 ## --TAB Speaking---
 
-![Uploading image.png…]()
 
 
 click "Display question" is to display question base on your input topic. it will be display random
