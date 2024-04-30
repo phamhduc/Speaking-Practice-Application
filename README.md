@@ -2,7 +2,7 @@
 
 
 
-## --TAB Input Quesion---
+## TAB Input Quesion
 
 
 "Add Topic" to add new topic for ielts speaking test.
@@ -19,7 +19,7 @@ After Choosing, "Choose" button become "Edit" Button, you can edit your answer a
 You can change "Number of question" to choose another one.
 
 
-## --TAB Speaking---
+## TAB Speaking
 
 
 
