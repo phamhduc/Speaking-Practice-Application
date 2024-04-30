@@ -1,7 +1,12 @@
 # THIS APPLICATION SUPPORT YOU TO PRACTICE IELTS SPEAKING
 
 
+## Application Set up
 
+You can use directly bu EXE file in dist folder, Remember to put EXE file and DataPack file in the samefolder.
+
+You can set up to run and edit as a python file.
+Remember to install PyQt5 by "pip install PyQt5".
 ## TAB Input Quesion
 
 
